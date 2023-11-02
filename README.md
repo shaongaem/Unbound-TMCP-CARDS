@@ -14,5 +14,8 @@ Update v.0.1.1
 
 -made the card more reasonable
 
+# Notes:
+pls note that right now there are no releses so you have to download the TMCP.dll in the source code for now.
+
 
 
